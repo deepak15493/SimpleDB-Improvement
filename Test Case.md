@@ -53,5 +53,7 @@ Just add following code any java file to test.
         bufferMgr.printBufferPool();
 
 - For task 2
-  SimpleDB.logMgr().printLogPageBuffer();
+  
+  
+        SimpleDB.logMgr().printLogPageBuffer();
 
